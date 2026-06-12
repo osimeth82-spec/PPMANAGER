@@ -1,0 +1,5 @@
+{
+  "name": "PayPal Beleg-Manager",
+  "description": "Dokumentation von PayPal-Einkäufen und Rechnungen mit Upload-Funktion.",
+  "requestFramePermissions": []
+}
